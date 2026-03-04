@@ -30,7 +30,7 @@ Aligned with **AZ-500 – Implement Platform Protection & Secure Compute Resourc
 
 ## 🏗 High-Level Architecture
 
-![Architecture Diagram](screenshots/Architecture%20diagram.png)
+![Architecture Diagram](screenshots/Architecture-diagram.png)
 
 ### Traffic Flow
 
