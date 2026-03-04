@@ -153,4 +153,4 @@ If this lab helped your Azure security journey:
 ---
 
 Built by Amal Basnayake  
-Cybersecurity Engineer | Cloud Security Enthusiast
+Cybersecurity | Cloud Security Enthusiast
